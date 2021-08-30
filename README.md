@@ -1,1 +1,1 @@
-# readinesstesting
+Used to test container readiness
